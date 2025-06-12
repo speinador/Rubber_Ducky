@@ -208,3 +208,19 @@ build/
 ## 🤝 Créditos
 
 Proyecto educativo basado en Hak5, Duckyscript, DigiKeyboard, CircuitPython HID y BLE Keyboard de T-vK.
+
+---
+
+## 🧑‍🏫 Autor
+
+Explicación elaborada por [Sebastian Peinador](https://www.linkedin.com/in/sebastian-j-peinador/) para propósitos didácticos y de investigación en ciberseguridad ofensiva.
+
+---
+
+## 📄 Licencia
+
+Este material se distribuye bajo la licencia [MIT](LICENSE).
+
+---
+
+> Si te resulta útil, ¡no olvides darle ⭐ al repo o compartirlo!
